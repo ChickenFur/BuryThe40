@@ -28,9 +28,10 @@ twitter_username: chickenfur
 github_username:  chickenfur
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
